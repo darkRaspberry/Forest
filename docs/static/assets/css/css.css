@@ -1,0 +1,25 @@
+/*!
+ *  v0.1-alpha.GitHub
+ * Copyright 2020 darkRaspberry
+ * Licensed under GPL-3.0 (https://github.com/darkRaspberry/Forest/blob/master/LICENSE)
+ */
+ 
+/*Global properties starts here*/
+html{font-size:100%;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}.clear:after{clear:both;content:" ";font-size:0;visibility:hidden;display:block;height:0;}
+*, *::before,*::after{box-sizing:inherit;-webkit-box-sizing:inherit;-moz-box-sizing:inherit;}
+/*remove underline from text*/
+a{color:inherit;text-emphasis:none;text-decoration:none!important;}a:hover{color:inherit;}
+
+body {background-color:#27AE60;margin:0 auto;text-align:center;height:100%;width:100%;}
+h1, h2, nav {font-family:'Inconsolata', Consolas, monospace;text-decoration:none;}
+.right-align{text-align:right!important}.center-align{text-align:center!important;}
+ul, li{padding:0;margin:0;list-style-type:none;}
+header{box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);margin:0;background-color:#82C594;padding: 1rem;display: block;} 
+nav li{display: inline;padding-left:1rem ;padding-right: 1rem;}
+nav ul{display: inherit}
+.headBox h1{display: inline;}
+nav{float: right;margin:1rem;}
+.content{background-color: #A2D9CE;max-width:1440px;margin:2vw auto;padding: 8vw;border-radius: 1rem;}
+p{font-family: 'Amatic SC', Consolas, monospace;font-size: 1.7rem;}
+.gatewayImg:hover{opacity: 0.6;}
+.gatewayBox, .gatewayHeart{display: inline-block;} 
