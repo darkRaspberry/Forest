@@ -73,3 +73,6 @@ firebase.json
 firestore.*
 package-lock.json
 functions/
+
+# Removed sync config
+.sync.ffs_db
