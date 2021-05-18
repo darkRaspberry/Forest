@@ -2,23 +2,17 @@
 
 A Digital Forest.
 
-[![Homepage](https://img.shields.io/badge/Homepage-darkraspberry.ga-greeen?style=for-the-badge)](https://darkRaspberry.ga)
+[![Homepage](https://img.shields.io/badge/Homepage-forest.darkraspberry.ga-greeen?style=for-the-badge)](https://forest.darkRaspberry.ga)
 [![GitHub stars](https://img.shields.io/github/stars/darkRaspberry/Forest?label=Hearts&style=for-the-badge)](https://github.com/darkRaspberry/Forest/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/darkRaspberry/Forest?label=Issues&style=for-the-badge)](https://github.com/darkRaspberry/Forest/issues)
 [![GitHub version](https://img.shields.io/github/v/tag/darkRaspberry/Forest?color=%2327AE60&label=GitHub%20Ver&style=for-the-badge)](https://darkraspberry.ga)
 [![GitHub license](https://img.shields.io/github/license/darkRaspberry/Forest?style=for-the-badge)](https://github.com/darkRaspberry/Forest/blob/master/LICENSE)
 
-A Alpha build is about to deploy on the homepage.
-
-Here you can create a digital forest for your own so that you can virtually contribute on environment.
-Have a look and create a forest.
-It's simple and it require only a google account to sign in.
-Have idea create a issue.
-Wanna support us. Please contribute.
+Do you love ❤️ Green? And wanna play a game about slowing down global warming by using your pc which in return increase carbon footprints. Pretty sarcastic, Right!. Still wanna to play this game. Then here you go.
 
 ## Understanding Usage and Versioning.
 
-So to us this app you can simply click on the [Homepage](https://darkraspberry.ga). After that we will take care of you. So that you don't get lost in woods.
+So to us this app you can simply click on the [Homepage](https://forest.darkraspberry.ga). After that we will take care of you and that you will not get lost in woods.
 
 All the release are just Milestone so that we can understand how things works.
 All release are server side. And basically our app is on Web so. You should only worry about [TTL](https://en.wikipedia.org/wiki/Time_to_live) near release time.
@@ -34,7 +28,7 @@ This release contain fix of Firebase ends. Mostly dynamic and contains most comp
 
 ## Roadmap
 
-Our [RoadMap](../blob/master/ROADMAP.md) will tell you our spoilers. Not satisfied see [projects](https://github.com/darkRaspberry/Forest/projects).gh
+Our [RoadMap](../blob/master/ROADMAP.md) will tell you our spoilers. Not satisfied see [projects.](https://github.com/darkRaspberry/Forest/projects)
 
 ## Changelog
 
