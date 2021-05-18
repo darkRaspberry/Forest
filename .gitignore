@@ -76,3 +76,4 @@ functions/
 
 # Removed sync config
 .sync.ffs_db
+*.code-workspace
